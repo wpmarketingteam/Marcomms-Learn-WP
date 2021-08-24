@@ -1,2 +1,2 @@
 # Marcomms-Learn-WP
-the place to track everything with regards to https://learn.wordpress.org/
+the place to track everything to do with marcomms relating to https://learn.wordpress.org/
